@@ -88,7 +88,7 @@ Hemoglobin-Independent-Anemia-Severity/
 
 The complete experiment is provided in:
 
-notebooks/anemia_severity_prediction.ipynb
+`notebooks/anemia_severity_prediction.ipynb`
 
 The notebook contains the full workflow:
 
@@ -108,11 +108,11 @@ The notebook contains the full workflow:
 
 Numerical results are stored in:
 
-results/metrics/
+`results/metrics/`
 
 Visual results and research figures are stored in:
 
-results/plots/
+`results/plots/`
 
 ---
 
@@ -120,7 +120,9 @@ results/plots/
 
 Install the required dependencies:
 
+```bash
 pip install -r requirements.txt
+```
 
 Main libraries:
 
@@ -130,9 +132,11 @@ Pandas · NumPy · Scikit-learn · XGBoost · LightGBM · SHAP · Matplotlib · 
 
 ## Dataset
 
-The project uses a hematological dataset containing demographic and blood-related features.
+**Clinically Validated CBC Dataset of 7,196 Samples for Hematological Disorder Analysis** from Mendeley Data.
 
-The dataset is **not included** in this repository.
+[View Dataset](https://doi.org/10.17632/rnfzzy4wz6)
+
+*Accessed: Jan. 12, 2026.*
 
 ---
 
@@ -154,3 +158,4 @@ This project is intended for academic and research purposes only. The models sho
 ## Author
 
 **Piyal Saha**
+[GitHub Profile](https://github.com/piyalsahaofficial)
