@@ -58,6 +58,7 @@ The project includes:
 
 ## Project Structure
 
+```text
 Hemoglobin-Independent-Anemia-Severity/
 │
 ├── notebooks/
@@ -81,8 +82,7 @@ Hemoglobin-Independent-Anemia-Severity/
 │
 ├── requirements.txt
 └── README.md
-
----
+```
 
 ## Notebook
 
